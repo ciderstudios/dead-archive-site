@@ -28,6 +28,8 @@ body {
   font: 17px/1.6 var(--body);
 }
 
+code { overflow-wrap: anywhere; }
+
 .wrap {
   max-width: 720px;
   margin: 0 auto;
